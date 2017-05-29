@@ -1,0 +1,3 @@
+I created this file with CR/LF newlines in gVim.
+
+I am currently wondering what will happen if I directly push it to GitHub via the site...
