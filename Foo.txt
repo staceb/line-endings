@@ -1,0 +1,5 @@
+I wonder what the newline style for this will be once it is in this testing branch...
+
+LF-only or CRLF? I will learn the truth soon.
+
+I have now also modified the file in gVim, and converted it to CR/LF. What happens when I upload it back?
